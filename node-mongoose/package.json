@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "assert": "^1.4.1",
+    "mongoose": "^4.8.2",
+    "mongoose-currency": "^0.2.0"
+  }
+}
